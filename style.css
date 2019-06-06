@@ -1,0 +1,140 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.textmaecenas{
+  letter-spacing: .2em;
+  text-align: center;
+  padding: 10px;
+  width: 90%;
+  color: #d2d2d2;
+}
+.textloremdolor{
+  text-align: center;
+  font-family: cursive;
+}
+.textpic02{
+  line-height: 1.5em;
+  text-align: justify;
+  color: #d2d2d2;
+  padding: 20px;
+}
+#botaopic02{ 
+  text-align: center;
+ }
+.botao{
+  text-align: center;
+  padding: 10px 10px;
+  border: 2px solid #eee;
+  background-color: #FFF;
+  font-size: 14px;
+}
+.textmattis{
+  letter-spacing: .2em;
+  text-align: center;
+  padding: 10px;
+  width: 90%;
+  color: #d2d2d2;
+}
+.textvestibulum{
+  text-align: center;
+  font-family: cursive;
+}
+.textpic03{
+  line-height: 1.5em;
+  text-align: justify;
+  color: #d2d2d2;
+  padding: 20px;
+}
+#botaopic03{
+  text-align: center;
+}
+.botao{
+  text-align: center;
+  padding: 10px 10px;
+  border: 2px solid #eee;
+  background-color: #FFF;
+  font-size: 14px;
+}
+#parallax{
+  background-color: #000;
+  width: 100%;
+  height: 200px;
+  color: #bfbfbf;
+  background-image: url(bg.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  position: relative;
+  margin-top: 70px;
+}
+.textoparallax{
+  text-align: center;
+  color: #d2d2d2;
+  padding-top: 50px;
+  letter-spacing: .2em; 
+  margin-bottom: 10px;
+}
+.tituloparallax{
+  text-align: center;
+  color: #ffffff;
+}
+hr{
+  width: 200px;
+}
+.hrconteudocarousel{
+  width: 200px;
+}
+.pcarousel{
+  letter-spacing: .2em;
+  font-size: 15%px;
+}
+.h1carousel{
+  font-size: 70px;
+}
+.textoavulso{
+  text-align: center;
+  color: #999999;
+  padding-top: 50px;
+  letter-spacing: .2em; 
+  margin-top: 10px;
+}
+.titulotexto1{
+  color: #000;
+}
+.imagensavulsa{
+  text-align: center;
+  margin-top: 50px;
+  letter-spacing: .2em;
+  text-transform: uppercase;
+  font-size: 10px;
+  color: #999999;
+}
+.textoavulso{
+  text-align: center;
+  margin-bottom: 35px;
+}
+#blocodeimagens1{
+  margin-bottom: 30px;
+}
+#fotopic{
+  padding: 15px;
+}
+footer{
+  background-color: #000;
+  height: 180px;
+}
+#copyy{
+  text-align: center;
+  color: #eee;
+  padding: 90px;
+}
+#conteudo2{
+  padding: 20px;
+}
+#menu{
+  background-color: rgba(0, 0, 0, 0.692);
+  margin-bottom: 0;
+}
+#menurigth{
+  float: right;
+}
